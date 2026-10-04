@@ -1,4 +1,3 @@
-cat <<EOT > README.md
 # 🤖 ZAP Labs — Technical University of Košice (TUKE)
 
 This repository contains lab assignments for the **Fundamentals of Algorithmic & Programming (ZAP / Základy algoritmizácie a programovania)** course at **KPI FEI TUKE**.
