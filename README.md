@@ -45,4 +45,3 @@ To compile and run the code, you need:
 
 * [TUKE ZAP Course Materials](https://kurzy.kpi.fei.tuke.sk/zap/labs)
 * [Department of Computers and Informatics (KPI FEI TUKE)](https://kpi.fei.tuke.sk/)
-EOT
